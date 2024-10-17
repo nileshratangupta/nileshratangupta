@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **eCommerce, ERP Application, Real Estate Industries**
 
-- 🌱 I’m currently learning **IOS like Arduino etc**
+- 🌱 I’m currently learning **IOT like Arduino etc**
 
 - 💬 Ask me about **React, PHP, Laravel, NodeJS, NextJS, NestJS**
 
